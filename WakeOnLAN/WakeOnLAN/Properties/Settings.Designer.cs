@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WakeOnLAN.Properties
+namespace WakeOnLan.Properties
 {
 
 
